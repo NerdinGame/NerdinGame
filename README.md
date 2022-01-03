@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-end 
 - 🌱 Estou estudando TypeScript 
+- 🐲 Não há um problema que não tenha resolução 
 
 
 <div align="center">
