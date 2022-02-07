@@ -1,7 +1,7 @@
 ### Olá ! Eu sou Kaio Rodrigo 👋
 
 - 🔭 Atualmente trabalho com Front-end 
-- 🌱 Estou estudando PHP
+- 🌱 Estou estudando PHP & React
 - 🐲 Não há um problema que não tenha resolução 
 
 
