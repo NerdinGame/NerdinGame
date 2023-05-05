@@ -1,8 +1,11 @@
 ### Olá ! Eu sou Kaio Rodrigo 👋
+### Nuxt.js | ReactJS | ReactNative | PHP | Laravel | SQL | MySQL | Tailwind | linux | 
 
-- 🔭 Atualmente trabalho com Front-end 
-- 🌱 Estou estudando Laravel & React
+- 🔭 Atualmente trabalho com Full-Stack
+- 🌱 Estou estudando Laravel & Nuxt
 - 🐲 Não há um problema que não tenha resolução 
+
+
 
 
 <div align="center">
